@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_URL =
-  "http://localhost:5000/api/tasks";
+  "https://team-task-manager-xltd.onrender.com/api/tasks";
 
 
 
